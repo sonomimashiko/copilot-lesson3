@@ -73,7 +73,7 @@ https://github.com/sonomimashiko/copilot-lesson3
 
 ### 2. AIペアプログラミング（AIとの協働）を体験しよう
 
-- `02_pair_programming.ps1` を開き、
+- `02_pair_programming.sh` を開き、
   AIに相談しながら、コードを発展させてみましょう
 
 - １：現在の日時に変更するにはどうすればいい？
