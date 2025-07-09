@@ -1,7 +1,7 @@
 # Codespaces & Copilot 体験講座
 
 このリポジトリは、GitHub Codespaces と GitHub Copilot を体験するための講座用サンプルです。
-https://github.com/sonomimashiko/copilot-lessons
+https://github.com/sonomimashiko/copilot-lesson3
 
 ---
 
