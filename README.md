@@ -46,7 +46,7 @@ Codespaces を使って、コード補完体験とAIペアプログラミング�
 
 ### 1. 講座用のリポジトリを開きます
 
-https://github.com/sonomimashiko/copilot-lessons
+https://github.com/sonomimashiko/copilot-lesson3
 
 ### 2. このリポジトリを **Fork** します（リポジトリのコピーを自分のGitHub上に作ります）
     画面右上の「Fork」ボタン → 画面右下の「Create for」ボタンをクリック
